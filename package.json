@@ -1,7 +1,7 @@
 {
   "name": "node-express-typescript-template",
   "version": "1.0.1",
-  "description": "A minimally opinionated typescript & express starter for 2023",
+  "description": "A minimally opinionated typescript & express template",
   "author": "Md Tanvir Ahamed Shanto <mdtanvirahamedshanto@gmail.com>",
   "license": "MIT-0",
   "private": false,
